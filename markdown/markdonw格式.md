@@ -37,4 +37,9 @@ _斜体_
 - [x] 已完成任务
 - [ ] 未完成任务
 
-[链接](www.baidu.com)
+[百度链接](www.baidu.com)
+！[图片描述](http://www.image.com)
+
+```
+
+```
